@@ -93,6 +93,7 @@ Some categories here will also not match what is on the challenge solution READM
 | Mind Your Ps and Qs        | 2021 - picoCTF                  | Easy              |
 | Dachshund Attacks          | 2021 - picoCTF                  | Easy              |
 | Netrunner Encryption       | 2021 - Tenable                  | Medium            |
+| RSA Basics #1              | 2024 - CTF UH                   | Easy              |
 
 ## Steganography
 
